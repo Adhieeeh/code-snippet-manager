@@ -12,6 +12,7 @@ A fast, lightweight developer utility built with React and Vite for storing, tag
 -  **Zero-Backend Persistence**: Syncs automatically to browser `localStorage`.
 
 ##  Run Locally
+------------------------------------------------------------------------------------
 ```bash
 npm install
 npm run dev
