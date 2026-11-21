@@ -8,7 +8,7 @@ A fast, lightweight developer utility built with React and Vite for storing, tag
 -  **Real-Time Search**: Filters across both snippet titles and code contents simultaneously.
 - 💾 **Zero-Backend Persistence**: Syncs automatically to browser `localStorage`.
 
-## 🚀 Run Locally
+##  Run Locally
 ```bash
 npm install
 npm run dev
