@@ -1,5 +1,6 @@
 #  DevSnap — Local-First Developer Snippet & Command Vault
 ----------------------------------------------------------------------------------
+
 A fast, lightweight developer utility built with React and Vite for storing, tagging, searching, and copying terminal commands and boilerplate code snippets with automatic `localStorage` persistence.
 
 ##  Features
